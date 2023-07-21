@@ -1,1 +1,2 @@
-# PRO-C108-Teacher-Bolierplate
+# PRO-C108-Project-Template
+project template for c108
